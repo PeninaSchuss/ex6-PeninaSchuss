@@ -1,14 +1,8 @@
-# ex6-express-straussw-ex6_michalmeshizahav_peninaschuss
-ex6-express-straussw-ex6_michalmeshizahav_peninaschuss created by GitHub Classroom
+A site with a login, where you select a certain date range and receive NASA photos published on these dates, and you can write and read comments on these photos.
 
 # Authors:
-Michal Meshi Zahav - id = 324102037
-Penina Schuss- id = 207256215
-
-
-# Email:
-meshiza@edu.hac.ac.il
-pninast@edu.hac.ac.il
+Penina Schuss
+Michal Meshi Zahav
 
 # Running instructions:
 Before running the project, run the following command in the terminal:
