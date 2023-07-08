@@ -8,5 +8,5 @@ Michal Meshi Zahav
 Before running the project, run the following command in the terminal:
 node_modules/.bin/sequelize db:migrate
 
-#Link to project:
+# Link to project:
 https://myfirstwebsite-5jw6.onrender.com
